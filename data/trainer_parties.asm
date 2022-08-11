@@ -158,7 +158,7 @@ JrTrainerMData:
 	db 52,NIDOKING,NIDOQUEEN,0
 JrTrainerFData:
 ; Cerulean Gym
-	db 24,SEAKING,0
+	db 23,CHARMELEON,0
 ; Route 6
 	db 23,JIGGLYPUFF,WIGGLYTUFF,0
 	db 22,DODUO,PIDGEOTTO,FEAROW,0
@@ -277,7 +277,7 @@ BikerData:
 	db 54,RATICATE,NIDOKING,0
 BurglarData:
 ; Unused
-	db 29,GROWLITHE,0
+	db 23,CHARMELEON,0
 	db 33,GROWLITHE,0
 	db 28,VULPIX,0
 ; Cinnabar Gym

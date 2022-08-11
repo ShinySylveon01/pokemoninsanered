@@ -1,20 +1,19 @@
 _CeruleanGymText_5c7be::
-	text "Hi, you're a new"
-	line "face!"
+	text "Welcome to"
+	line "CERULEAN GYM!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "I am BLAINE!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "I have come to"
+	line "replace MISTY as"
+	cont "leader!"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "Ready to taste"
+	line "some flames my"
+	cont "boy!"
+	
+	para "You better have"
+	line "BURN HEAL!"
 	done
 
 _CeruleanGymText_5c7c3::
@@ -60,31 +59,32 @@ _CeruleanGymText_5c7d3::
 
 _CeruleanGymText_5c7d8::
 	text "Wow!"
-	line "You're too much!"
+	line "You beat me!"
 
-	para "All right!"
+	para "Fine!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@@"
+	para "You have earned"
+	line "the CASCADEBADGE!@@"
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
-
-	para "BLAINE can wait!"
+	text "You'll have to"
+	line "beat me first if"
+	cont "you want to have"
+	cont "a fight with the"
+	cont "leader!"
 	done
 
 _CeruleanGymEndBattleText1::
 	text "You"
-	line "overwhelmed me!"
+	line "have beaten me!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "I don't know what"
+	line "to say now!"
+
+	para "Good luck against"
+	line "our leader!"
 	done
 
 _CeruleanGymBattleText2::

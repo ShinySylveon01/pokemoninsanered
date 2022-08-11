@@ -9,7 +9,7 @@ CeruleanGym_Object:
 
 	db 4 ; objects
 	object SPRITE_FAT_BALD_GUY,  5,  1, STAY, DOWN, 1, OPP_BLAINE, 1
-	object SPRITE_LASS,  4,  4, STAY, RIGHT, 2, OPP_JR_TRAINER_F, 1
+	object SPRITE_BLACK_HAIR_BOY_2,  4,  4, STAY, RIGHT, 2, OPP_BURGLAR, 1
 	object SPRITE_GENTLEMAN,  6,  7, STAY, LEFT, 3, OPP_GENTLEMAN, 6
 	object SPRITE_GYM_HELPER, 7, 10, STAY, DOWN, 4 ; person
 
