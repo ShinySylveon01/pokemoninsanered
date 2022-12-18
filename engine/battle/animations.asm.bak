@@ -703,9 +703,6 @@ AnimationIdSpecialEffects:
 	
 	db POWER_GROWL
 	dw DoPowerGrowlSpecialEffects
-	
-	db X_SCISSOR
-	dw AnimationFlashScreen
 
 	db TRADE_BALL_DROP_ANIM
 	dw TradeHidePokemon

@@ -1299,10 +1299,6 @@ SignalBeamAnim:
 	db SE_DELAY_ANIMATION_10, $FF
 	db SE_DELAY_ANIMATION_10, $FF
 	db $FF
-	
-XScissorAnim:
-	db $06,$0B,$2A
-	db $FF
 
 BallTossAnim:
 	db $03,$FF,$06

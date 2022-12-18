@@ -487,8 +487,8 @@ ScytherEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 16, X_SCISSOR
-	db 19, X_SCISSOR
+	db 16, FURY_CUTTER
+	db 19, FURY_CUTTER
 	db 22, WING_ATTACK
 	db 25, SWORDS_DANCE
 	db 28, SLASH

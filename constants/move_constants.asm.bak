@@ -193,7 +193,6 @@ NUM_ATTACKS EQU const_value + -1
 	const SACRED_FIRE
 	const CLOSE_COMBAT
 	const SIGNAL_BEAM
-	const X_SCISSOR
 	; Moves do double duty as animation identifiers.
 
 	const SHOWPIC_ANIM
